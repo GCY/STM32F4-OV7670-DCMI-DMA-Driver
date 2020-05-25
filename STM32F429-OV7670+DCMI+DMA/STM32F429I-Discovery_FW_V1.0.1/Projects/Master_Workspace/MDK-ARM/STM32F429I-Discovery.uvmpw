@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>..\..\Demonstration\MDK-ARM\STM32F429I-Discovery_Demo.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>..\..\FW_upgrade\MDK-ARM\STM32F429I-Discovery_FW_Upgrade.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\ADC_DMA\MDK-ARM\ADC_DMA.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\ADC_DualModeInterleaved\MDK-ARM\ADC_DualModeInterleaved.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\ADC_TripleModeInterleaved\MDK-ARM\ADC_TripleModeInterleaved.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\DAC_SignalsGeneration\MDK-ARM\DAC_SignalsGeneration.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\DMA2D_MemToMemWithBlending\MDK-ARM\DMA2D_MemToMemWithBlending.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\DMA2D_MemToMemWithPFC\MDK-ARM\DMA2D_MemToMemWithPFC.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\EXTI_Example\MDK-ARM\EXTI_Example.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\FLASH_DualBoot\MDK-ARM\FLASH_DualBoot.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\FLASH_Program\MDK-ARM\FLASH_Program.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\FLASH_WriteProtection\MDK-ARM\FLASH_WriteProtection.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\FMC_SDRAM\MDK-ARM\FMC_SDRAM.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\FMC_SDRAM_LowPower\MDK-ARM\FMC_SDRAM_LowPower.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\IWDG_Example\MDK-ARM\IWDG_Example.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\LTDC_AnimatedPictureFromUSB\MDK-ARM\LTDC_AnimatedPictureFromUSB.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\LTDC_ColorKeying\MDK-ARM\LTDC_ColorKeying.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\LTDC_Display_2Layers\MDK-ARM\LTDC_Display_2Layers.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\MEMS_Example\MDK-ARM\MEMS_Example.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\PWR_CurrentConsumption\MDK-ARM\PWR_CurrentConsumption.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\PWR_STANDBY\MDK-ARM\PWR_STANDBY.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\PWR_STOP\MDK-ARM\PWR_STOP.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\RCC_ClockConfig\MDK-ARM\RCC_ClockConfig.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\RCC_CSS\MDK-ARM\RCC_CSS.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\SysTick_Example\MDK-ARM\SysTick_Example.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\TIM_PWMOutput\MDK-ARM\Project_TIM_PWMOutput.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Peripheral_Examples\Touch_Panel\MDK-ARM\Touch_Panel.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\..\Template\MDK-ARM\Template.uvproj</PathAndName>
+  </project>
+
+</ProjectWorkspace>
