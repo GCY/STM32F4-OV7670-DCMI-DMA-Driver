@@ -6,7 +6,21 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 
 ## Hardware Configuration
 
-## Build & Test
+## How its work
+
+
+## Build
+
+- 1. cd ./STM32F429-Discovery-OV7670-DCMI-DMA-Driver/STM32F429-OV7670+DCMI+DMA/stm32F429-OV7670 & make
+- 2. load *.elf file with arm-none-eabi-gdb
+- 3. run
+
+## Test
+
+- 1. First, power on and initialize STM32F429 OV7670 SCCB bus.
+- 2. When the LCD progress bar is complete, OV7670 SCCB command are initialized.
+- 3. Push "User" button.
+- 4. STM32F429 capture frame and display to LCD.
 
 Licensing
 =======
