@@ -28,7 +28,7 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 
 ## Build
 
- 1. cd ./STM32F429-Discovery-OV7670-DCMI-DMA-Driver/STM32F429-OV7670+DCMI+DMA/stm32F429-OV7670 & make
+ 1. cd .STM32F429-Discovery-OV7670-DCMI-DMA-Driver/STM32F429 Version/firmware/stm32F429-OV7670 & make
  2. load *.elf file with arm-none-eabi-gdb
  3. run
 
