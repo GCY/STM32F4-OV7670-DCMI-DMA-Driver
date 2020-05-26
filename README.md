@@ -6,8 +6,6 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 
 ## Hardware Configuration
 
-## How its work
-
 
 ## Build
 
