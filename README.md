@@ -5,7 +5,26 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 ![](https://github.com/GCY/STM32F429-Discovery-OV7670-DCMI-DMA-Driver/blob/master/res/demo.gif) 
 
 ## Hardware Configuration
-
+| STM32F429 | OV7670 |
+| :----: | :----: |
+| 3V3 | RESET |
+| GND | PWDN |
+| PC6 | D0 |
+| PC7 | D1 |
+| PC8 | D2 |
+| PC9 | D3 |
+| PE4 | D4 |
+| PB6 | D5 |
+| PE5 | D6 |
+| PE6 | D7 |
+| PA8 | XCLK |
+| PA6 | PCLK |
+| PA4 | HREF |
+| PB7 | VSYNC |
+| PB9 | SIOD |
+| PB8 | SIOC |
+| GND | GND |
+| 3V3 | 3V3 |
 
 ## Build
 
