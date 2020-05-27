@@ -2,7 +2,7 @@
 
 STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modified from [Individální projekty MPOA](http://www.urel.feec.vutbr.cz/MPOA/2014/cam-ov7670) Keil-C project.
 
-![](https://github.com/GCY/STM32F429-Discovery-OV7670-DCMI-DMA-Driver/blob/master/STM32F429%20Version/res/demo.gif) 
+![](https://github.com/GCY/STM32F4-OV7670-DCMI-DMA-Driver/blob/master/STM32F429%20Version/res/demo.gif) 
 
 ## Hardware Configuration
 | STM32F429 | OV7670 |
