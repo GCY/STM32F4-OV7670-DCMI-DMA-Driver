@@ -4,7 +4,7 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 
 ![](https://github.com/GCY/STM32F4-OV7670-DCMI-DMA-Driver/blob/master/STM32F429%20Version/res/demo.gif) 
 
-I use the same parameters of OV7670 as STM32F429, but the color will be wrong in my design, maybe the problem is exposure, gain, high-speed clock-signal layout? that is my issue list.
+I use the same parameters of OV7670 as STM32F429, but the color will be wrong in my design, maybe the problem is exposure, gain, high-speed clock-signal layout? that is my issue list. [to be fix.](https://www.arducam.com/rgb565-format-issues/)
 
 ![](https://github.com/GCY/STM32F4-OV7670-DCMI-DMA-Driver/blob/master/STM32F407%20Version/res/demo.gif)
 
