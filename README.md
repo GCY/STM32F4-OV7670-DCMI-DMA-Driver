@@ -17,19 +17,19 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 | GND | GND | PWDN |
 | PC6 | PC6 | D0 |
 | PC7 | PC7 | D1 |
-| 3V3 | PC8 | D2 |
-| 3V3 | PC9 | D3 |
-| 3V3 | PE4 | D4 |
-| 3V3 | PB6 | D5 |
-| 3V3 | PE5 | D6 |
-| 3V3 | PE6 | D7 |
-| 3V3 | PA8 | XCLK |
-| 3V3 | PA6 | PCLK |
-| 3V3 | PA4 | HREF |
-| 3V3 | PB7 | VSYNC |
-| 3V3 | PB9 | SIOD |
-| 3V3 | PB8 | SIOC |
-| 3V3 | GND | GND |
+| PE0 | PC8 | D2 |
+| PE1 | PC9 | D3 |
+| PE4 | PE4 | D4 |
+| PB6 | PB6 | D5 |
+| PE5 | PE5 | D6 |
+| PE6 | PE6 | D7 |
+| PA8 | PA8 | XCLK |
+| PA6 | PA6 | PCLK |
+| PA4 | PA4 | HREF |
+| PB7 | PB7 | VSYNC |
+| PB9 | PB9 | SIOD |
+| PB8 | PB8 | SIOC |
+| GND | GND | GND |
 | 3V3 | 3V3 | 3V3 |
 
 ## Build
