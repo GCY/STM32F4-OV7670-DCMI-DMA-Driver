@@ -1,4 +1,4 @@
-# STM32F429-Discovery-OV7670-DCMI-DMA-Driver
+# STM32F4-Discovery-OV7670-DCMI-DMA-Driver
 
 STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modified from [Individální projekty MPOA](http://www.urel.feec.vutbr.cz/MPOA/2014/cam-ov7670) Keil-C project.
 
@@ -11,26 +11,26 @@ STM32F429-DISCO+OV7670 MAC and Linux project with arm-none-eabi-gcc, it is modif
 
 
 ## DCMI Configuration
-| STM32F429 | OV7670 |
-| :----: | :----: |
-| 3V3 | RESET |
-| GND | PWDN |
-| PC6 | D0 |
-| PC7 | D1 |
-| PC8 | D2 |
-| PC9 | D3 |
-| PE4 | D4 |
-| PB6 | D5 |
-| PE5 | D6 |
-| PE6 | D7 |
-| PA8 | XCLK |
-| PA6 | PCLK |
-| PA4 | HREF |
-| PB7 | VSYNC |
-| PB9 | SIOD |
-| PB8 | SIOC |
-| GND | GND |
-| 3V3 | 3V3 |
+| STM32F407 | STM32F429 | OV7670 |
+| :----: | :----: | :----: |
+| 3V3 | 3V3 | RESET |
+| GND | GND | PWDN |
+| PC6 | PC6 | D0 |
+| PC7 | PC7 | D1 |
+| 3V3 | PC8 | D2 |
+| 3V3 | PC9 | D3 |
+| 3V3 | PE4 | D4 |
+| 3V3 | PB6 | D5 |
+| 3V3 | PE5 | D6 |
+| 3V3 | PE6 | D7 |
+| 3V3 | PA8 | XCLK |
+| 3V3 | PA6 | PCLK |
+| 3V3 | PA4 | HREF |
+| 3V3 | PB7 | VSYNC |
+| 3V3 | PB9 | SIOD |
+| 3V3 | PB8 | SIOC |
+| 3V3 | GND | GND |
+| 3V3 | 3V3 | 3V3 |
 
 ## Build
 
